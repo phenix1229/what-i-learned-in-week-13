@@ -15,6 +15,8 @@ Similar to anonymous functions, but with the word function completely removed.
 (num) => {return num + 5};
 ```
 
+---***DO NOT USE ARROW FUNCTIONS TO DEFINE METHODS!!!***---
+
 ### Big O notation
 
 A measure of efficiency.
@@ -25,3 +27,8 @@ A measure of efficiency.
 
 ### Linked lists (start)
 
+![screenshot](linkedLists.jpeg)
+
+### Miscellaneous
+
+Objects auto-sort numeric keys by default.
